@@ -7,33 +7,15 @@
 ---
 
 **🛠️ Tech Stack
-Languages**
-- Python
-- C++
-- SQL
-- C
+Languages** : Python,C++, SQL, C
 
 ---
 
-**🤖 Machine Learning & AI**
-- TensorFlow
-- Keras
-- Scikit-learn
-- NLTK
-- Deep Learning
-- Computer Vision
-- NLP
+**🤖 Machine Learning & AI** : TensorFlow, Keras, Scikit-learn, Deep Learning, Computer Vision, NLP
 
 ---
 
-**📊 Databases & Tools**
-- PostgreSQL
-- MySQL
-- Power BI
-- Tableau
-- Git & GitHub
-- VS Code
-- Excel
+**📊 Databases & Tools** : PostgreSQL, MySQL, Power BI, Tableau, Git & GitHub, VS Code, Excel
 
 ---
 
