@@ -1,40 +1,40 @@
 **hello! This is Sankalp-Dhote**
 
-🎓-Master's Student in Data Science at the The University of Alabama at Birmingham
-💡-AI & Machine Learning Enthusiast | Research Developer | Data Science Practitioner
-📍-Birmingham, Alabama, USA
+🎓- Master's Student in Data Science at the The University of Alabama at Birmingham
+💡- AI & Machine Learning Enthusiast | Research Developer | Data Science Practitioner
+📍- Birmingham, Alabama, USA
 
 ---
 
 **🛠️ Tech Stack
 Languages**
--Python
--C++
--SQL
--C
+- Python
+- C++
+- SQL
+- C
 
 
 ---
 
 **Machine Learning & AI**
--TensorFlow
--Keras
--Scikit-learn
--NLTK
--Deep Learning
--Computer Vision
--NLP
+- TensorFlow
+- Keras
+- Scikit-learn
+- NLTK
+- Deep Learning
+- Computer Vision
+- NLP
 
 ---
 
 **Databases & Tools**
--PostgreSQL
--MySQL
--Power BI
--Tableau
--Git & GitHub
--VS Code
--Excel
+- PostgreSQL
+- MySQL
+- Power BI
+- Tableau
+- Git & GitHub
+- VS Code
+- Excel
 
 ---
 
@@ -60,22 +60,22 @@ Developed a Type-2 Diabetes prediction model with 98.80% accuracy. Conducted res
 ---
 
 **📝 Publications**
--📖 An Intelligent Diabetes Predicting Model for Diverse Ethnicities
--📖 Transforming Operations: Integrating Computer Vision and Machine Learning
+- 📖 An Intelligent Diabetes Predicting Model for Diverse Ethnicities
+- 📖 Transforming Operations: Integrating Computer Vision and Machine Learning
 
 ---
 
 **🏆 Certifications**
--Google Data Analytics Professional Certificate
--AWS Cloud Practitioner Essentials
--Deepfake Workflow Copyright Certification
---Data Visualization by Google
-ICEEE Presentation Certificate
+- Google Data Analytics Professional Certificate
+- AWS Cloud Practitioner Essentials
+- Deepfake Workflow Copyright Certification
+- Data Visualization by Google
+- ICEEE Presentation Certificate
 
 ---
 
 **📜 Intellectual Property**
--Copyright – Deepfake Source Detection & Mitigation Flowchart
+- Copyright – Deepfake Source Detection & Mitigation Flowchart
 
 
 **📫 Connect With Me**
