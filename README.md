@@ -77,8 +77,9 @@ Developed a Type-2 Diabetes prediction model with 98.80% accuracy. Conducted res
 **📜 Intellectual Property**
 - Copyright – Deepfake Source Detection & Mitigation Flowchart
 
+---
 
 **📫 Connect With Me**
-📧 Email [ Email ](sankalpdhote350@gmail.com)
-💼 LinkedIn [LinkedIn](https://www.linkedin.com/in/sankalpdhote/)
+- 📧  [ Email ](sankalpdhote350@gmail.com)
+- 💼  [LinkedIn](https://www.linkedin.com/in/sankalpdhote/)
 
