@@ -30,13 +30,13 @@ Developed a Type-2 Diabetes prediction model with 98.80% accuracy. Conducted res
 
 **🔬 Featured Projects**
 **Type-2 Diabetes Prediction**: Machine Learning model for predicting Type-2 diabetes using advanced ML algorithms and data preprocessing techniques.
--- **Tech Used:** Machine Learning, Deep Learning, Data Visualization, Data Engineering
+ **Tech Used:** Machine Learning, Deep Learning, Data Visualization, Data Engineering
 
 **Real-Time Face Emotion Recognition:** Built a CNN-based real-time emotion recognition system capable of detecting and classifying human emotions.
--- **Tech Used:** Computer Vision, Deep Learning, CNN
+ **Tech Used:** Computer Vision, Deep Learning, CNN
 
 **Underwater Fish Detection:** Implemented YOLOv7-based underwater object detection for marine image analysis.
--- **Tech Used:** YOLOv7, Computer Vision, Image Processing
+ **Tech Used:** YOLOv7, Computer Vision, Image Processing
 
 ---
 
