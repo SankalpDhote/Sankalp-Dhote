@@ -8,10 +8,12 @@
 
 **🛠️ Tech Stack
 Languages**
-Python
-C++
-SQL
-C
+•	Languages**
+•	Python
+•	C++
+•	SQL
+•	C
+
 
 ---
 
