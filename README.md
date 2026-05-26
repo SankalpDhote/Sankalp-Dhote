@@ -1,8 +1,8 @@
 **hello! This is Sankalp-Dhote**
 
-🎓- Master's Student in Data Science at the The University of Alabama at Birmingham
-💡- AI & Machine Learning Enthusiast | Research Developer | Data Science Practitioner
-📍- Birmingham, Alabama, USA
+- 🎓 Master's Student in Data Science at the The University of Alabama at Birmingham
+- 💡 AI & Machine Learning Enthusiast | Research Developer | Data Science Practitioner
+- 📍 Birmingham, Alabama, USA
 
 ---
 
@@ -12,7 +12,6 @@ Languages**
 - C++
 - SQL
 - C
-
 
 ---
 
