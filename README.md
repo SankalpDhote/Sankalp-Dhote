@@ -16,7 +16,7 @@ Languages**
 
 ---
 
-**Machine Learning & AI**
+**🤖 Machine Learning & AI**
 - TensorFlow
 - Keras
 - Scikit-learn
@@ -27,7 +27,7 @@ Languages**
 
 ---
 
-**Databases & Tools**
+**📊 Databases & Tools**
 - PostgreSQL
 - MySQL
 - Power BI
@@ -79,6 +79,6 @@ Developed a Type-2 Diabetes prediction model with 98.80% accuracy. Conducted res
 
 
 **📫 Connect With Me**
-📧 Email: sankalpdhote350@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/sankalpdhote/
+📧 Email [ Email ](sankalpdhote350@gmail.com)
+💼 LinkedIn [LinkedIn](https://www.linkedin.com/in/sankalpdhote/)
 
