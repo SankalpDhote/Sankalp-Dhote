@@ -1,4 +1,4 @@
-**hello! This is Sankalp-Dhote**
+**Hello! This is Sankalp Dhote**
 
 - 🎓 Master's Student in Data Science at the The University of Alabama at Birmingham
 - 💡 AI & Machine Learning Enthusiast | Research Developer | Data Science Practitioner
@@ -67,9 +67,6 @@ Developed a Type-2 Diabetes prediction model with 98.80% accuracy. Conducted res
 **🏆 Certifications**
 - Google Data Analytics Professional Certificate
 - AWS Cloud Practitioner Essentials
-- Deepfake Workflow Copyright Certification
-- Data Visualization by Google
-- ICEEE Presentation Certificate
 
 ---
 
