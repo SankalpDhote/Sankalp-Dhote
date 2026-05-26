@@ -6,8 +6,9 @@
 
 ---
 
-**🛠️ Tech Stack
-Languages** : Python,C++, SQL, C
+**🛠️ Tech Stack**
+
+**Languages** : Python,C++, SQL, C
 
 ---
 
@@ -19,8 +20,9 @@ Languages** : Python,C++, SQL, C
 
 ---
 
-**💼 Experience
-🔹 Research Developer Intern — Codelissian**
+**💼 Experience**
+
+**🔹 Research Developer Intern — Codelissian**
 Developed responsive and data-driven web solutions aligned with client requirements. Conducted research-focused performance optimization for scalable applications. Improved usability and system efficiency through analytical approaches.
 
 **🔹 ML Intern — COE AIML**
@@ -29,6 +31,7 @@ Developed a Type-2 Diabetes prediction model with 98.80% accuracy. Conducted res
 ---
 
 **🔬 Featured Projects**
+
 **Type-2 Diabetes Prediction**: Machine Learning model for predicting Type-2 diabetes using advanced ML algorithms and data preprocessing techniques.
  **Tech Used:** Machine Learning, Deep Learning, Data Visualization, Data Engineering
 
@@ -41,23 +44,27 @@ Developed a Type-2 Diabetes prediction model with 98.80% accuracy. Conducted res
 ---
 
 **📝 Publications**
+
 - 📖 An Intelligent Diabetes Predicting Model for Diverse Ethnicities
 - 📖 Transforming Operations: Integrating Computer Vision and Machine Learning
 
 ---
 
 **🏆 Certifications**
+
 - Google Data Analytics Professional Certificate
 - AWS Cloud Practitioner Essentials
 
 ---
 
 **📜 Intellectual Property**
+
 - Copyright – Deepfake Source Detection & Mitigation Flowchart
 
 ---
 
 **📫 Connect With Me**
+
 - 📧  [ Email ](sankalpdhote350@gmail.com)
 - 💼  [LinkedIn](https://www.linkedin.com/in/sankalpdhote/)
 
